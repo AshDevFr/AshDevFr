@@ -1,34 +1,35 @@
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ashdevfr&count_private=true&show_icons=true&theme=dark" />
-</div>
+<p align="center">
+  <a href="https://github.com/AshDevFr?tab=followers">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/AshDevFr?label=GitHub%20Followers&style=social"> 
+  </a> &nbsp
+  <a href="https://github.com/AshDevFr">
+  <img alt="Hitcount" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAshDevFr%2FAshDevFr&count_bg=%2300AEFF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Profile%20Views&#58;&edge_flat=false">
+  </a> &nbsp
+  <a href="https://gitlab.com/AshDevFr">
+  <img alt="GitLab Profile" style="height:20px;" src="https://images.ctfassets.net/xz1dnu24egyd/4QGmokIyrhHxpfmYIKHq17/ef43a9f88f2a9c1da8f5382383756d46/gitlab-logo-150.jpg">
+  </a> &nbsp
+</p>
 
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashdevfr&count_private=true&show_icons=true&theme=dark&hide_title=true&hide_rank=true" />
+  <img alt="Language Usage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshDevFr&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+</p>
+<p align="center">
+  <img alt="Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=AshDevFr&theme=dark&hide_border=true&card_height=170" />
+</p>
 
-### Hi there 👋
-
-
-This is the kind of stuff I've been working on:
-* [docker-spigot](https://github.com/AshDevFr/docker-spigot) A Docker image for a Minecraft server using Spigot.
-* [stock-scraper](https://github.com/AshDevFr/stock-scraper) A tool built in go to scrape and watch stocks of various products on amazon, best buy, ... 
-* [ddb-campaign-screen](https://github.com/AshDevFr/ddb-campaign-screen) A Chrome extension to add a Dungeon Master Screen on DnDBeyond.
-* [encounters](https://github.com/AshDevFr/encounters_app) An [app](https://encounters.4sh.dev/) to manage campaigns, characters and DM Screen using DnDBeyond. I also added a small virtual tabletop editor.
-* [three-dice-roll](https://github.com/AshDevFr/three-dice-roll) A prototype of 3D dice rolling using three.js and cannon.js.
-* And more...
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AshDevFr/AshDevFr/refs/heads/snake/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AshDevFr/AshDevFr/refs/heads/snake/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AshDevFr/AshDevFr/refs/heads/snake/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ### :sparkles: Ways to connect and stay in touch :sparkles:
 
 * :pen: [4sh.dev](https://4sh.dev) - My official website/blog
 * :bird: [@SylvainCau](https://twitter.com/@SylvainCau) - Follow me on twitter for (mostly) programming-related stuff.
-
-
-### :bulb: What I'm up to :bulb:
-
-These days I'm interested in Game dev. I am currently learning to use Unity and Blender to do some cool stuff.  
-I am also working on a small independent game.
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashdevfr&langs_count=10&theme=dark" />
-</div>
 
 <!--
 **AshDevFr/AshDevFr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
