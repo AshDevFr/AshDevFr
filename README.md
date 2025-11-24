@@ -2,9 +2,6 @@
   <a href="https://github.com/AshDevFr?tab=followers">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/AshDevFr?label=GitHub%20Followers&style=social"> 
   </a> &nbsp
-  <a href="https://github.com/AshDevFr">
-  <img alt="Hitcount" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAshDevFr%2FAshDevFr&count_bg=%2300AEFF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Profile%20Views&#58;&edge_flat=false">
-  </a> &nbsp
   <a href="https://gitlab.com/AshDevFr">
   <img alt="GitLab Profile" style="height:20px;" src="https://images.ctfassets.net/xz1dnu24egyd/4QGmokIyrhHxpfmYIKHq17/ef43a9f88f2a9c1da8f5382383756d46/gitlab-logo-150.jpg">
   </a> &nbsp
