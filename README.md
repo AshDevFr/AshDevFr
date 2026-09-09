@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashdevfr&count_private=true&show_icons=true&theme=dark&hide_title=true&hide_rank=true" />
-  <img alt="Language Usage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshDevFr&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+  <img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=ashdevfr&count_private=true&show_icons=true&theme=dark&hide_title=true&hide_rank=true" />
+  <img alt="Language Usage" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AshDevFr&theme=dark&show_icons=true&hide_border=true&layout=compact" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AshDevFr&theme=dark&hide_border=true" alt="GitHub Streak" />
